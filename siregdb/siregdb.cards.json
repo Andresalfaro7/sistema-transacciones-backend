@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "65b58ffe0d1327ecd7ad2d67"
+  },
+  "number": "1111000011110000",
+  "cardholder": "Andres Parada",
+  "expirationDate": "00/00",
+  "cvv": "123",
+  "totalAmount": 100.75,
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": true,
+  "createdAt": {
+    "$date": "2024-01-27T23:21:34.190Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T21:56:58.339Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "number": "2222000011110002",
+  "cardholder": "José Martinez",
+  "expirationDate": "02/02",
+  "cvv": "220",
+  "totalAmount": 200.31,
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-27T23:37:08.365Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T21:41:55.281Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b736a623d8d1b9cf23e623"
+  },
+  "number": "3333000011110000",
+  "cardholder": "Jose Perez",
+  "expirationDate": "01/00",
+  "cvv": "123",
+  "totalAmount": 1250.23,
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-29T05:24:54.182Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T21:41:55.295Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b7381223d8d1b9cf23e631"
+  },
+  "number": "4444000011110000",
+  "cardholder": "Marcos Lopez",
+  "expirationDate": "10/14",
+  "cvv": "124",
+  "totalAmount": 2424.52,
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-29T05:30:58.194Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T21:41:55.307Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b738be23d8d1b9cf23e649"
+  },
+  "number": "5555000011110000",
+  "cardholder": "Julio Torrez",
+  "expirationDate": "15/20",
+  "cvv": "125",
+  "totalAmount": 152.4,
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-29T05:33:50.584Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T21:41:55.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b7394823d8d1b9cf23e651"
+  },
+  "number": "6666777700007771",
+  "cardholder": "Roberto Cambray Gutierrez",
+  "expirationDate": "17/17",
+  "cvv": "177",
+  "totalAmount": 770.77,
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-29T05:36:08.393Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-29T22:48:26.238Z"
+  },
+  "__v": 0
+}]

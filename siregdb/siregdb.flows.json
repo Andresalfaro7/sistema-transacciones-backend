@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "65b5a1ba99e74f1d35bc3302"
+  },
+  "nameFlow": "Ingresos",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-28T00:37:14.028Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T00:37:14.028Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "nameFlow": "Egresos",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2024-01-28T00:37:29.664Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T00:38:24.360Z"
+  },
+  "__v": 0
+}]

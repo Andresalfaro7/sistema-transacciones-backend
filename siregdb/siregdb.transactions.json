@@ -1,0 +1,135 @@
+[{
+  "_id": {
+    "$oid": "65b5ccf8344f7e838256a9a3"
+  },
+  "concept": "Pago de despensa en el supermercado lejano",
+  "amount": 87.27,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "card": {
+    "$oid": "65b738be23d8d1b9cf23e649"
+  },
+  "isDeleted": false,
+  "dateTransaction": {
+    "$date": "2024-01-28T03:41:44.039Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T03:41:44.045Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T05:51:31.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e7b2a1c0b5d9ab74e168"
+  },
+  "concept": "Paso de tarjeta a otra",
+  "amount": 125,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "isDeleted": false,
+  "dateTransaction": {
+    "$date": "2024-01-28T05:35:46.991Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T05:35:47.005Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T05:35:47.005Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e893f796ee59120487db"
+  },
+  "concept": "Deuda pagada",
+  "amount": 25.5,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "isDeleted": false,
+  "dateTransaction": {
+    "$date": "2024-01-28T05:39:31.046Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T05:39:31.059Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T05:39:31.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e8e547657394d582417e"
+  },
+  "concept": "Deuda cancelada por recarga",
+  "amount": 5,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "isDeleted": false,
+  "dateTransaction": {
+    "$date": "2024-01-28T05:40:53.045Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T05:40:53.058Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T05:40:53.058Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b88498cf96efdabb239a62"
+  },
+  "concept": "Pago a terceros",
+  "amount": 25.42,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "isDeleted": false,
+  "dateTransaction": {
+    "$date": "2024-01-30T05:09:44.728Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-30T05:09:44.738Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-30T05:54:59.024Z"
+  },
+  "__v": 0
+}]

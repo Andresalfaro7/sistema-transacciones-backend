@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "65b5e7b2a1c0b5d9ab74e167"
+  },
+  "concept": "Paso de tarjeta a otra",
+  "amount": 125,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "transferDate": {
+    "$date": "2024-01-28T05:35:46.990Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T05:35:46.997Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T05:35:46.997Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e893f796ee59120487da"
+  },
+  "concept": "Deuda pagada",
+  "amount": 25.5,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "transferDate": {
+    "$date": "2024-01-28T05:39:31.045Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T05:39:31.051Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T05:39:31.051Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e8e547657394d582417d"
+  },
+  "concept": "Deuda cancelada por recarga a movil",
+  "amount": 10,
+  "flow": {
+    "$oid": "65b5a1c999e74f1d35bc3304"
+  },
+  "card": {
+    "$oid": "65b593a42dc6d00fc8800080"
+  },
+  "user": {
+    "$oid": "65b530d5944abf10b308674f"
+  },
+  "isDeleted": false,
+  "transferDate": {
+    "$date": "2024-01-28T05:40:53.044Z"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T05:40:53.050Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T05:45:43.435Z"
+  },
+  "__v": 0
+}]

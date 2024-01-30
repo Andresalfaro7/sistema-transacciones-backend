@@ -1,0 +1,39 @@
+-Tabla de usuario
+    nombre: String
+    apellidos: String
+    email: String
+    contraseña: String
+    timestamp
+
+-Tabla Tarjetas
+    numerodetarjeta: String
+    nombretutlar: String
+    fechavencimiento: Date
+    CVV: String
+    montoTotal: Number
+    user { id }
+    timestamp
+
+-Tabla de Transacciones
+    Concepto: String
+    monto: Number
+    fecha: Date
+    tipodeflujodeefectivo(ingreso o egreso): String
+    user { id }
+    tarjeta: { id }
+    timestamp
+
+-Tabla de transferencias
+    Concepto: String
+    monto: Number
+    fecha: Date
+    tipodeflujodeefectivo(ingreso o egreso): String
+    tarjeta: { id, numero, nombreTitular }
+    user { id }
+    timestamp
+
+-Tabla tipo de flujo de efectivo
+    nameTransaction: String
+    timestamp
+
+// transacciones (compras y ventas), transferenacias (movimiento de dinero de una cuenta a otra)
